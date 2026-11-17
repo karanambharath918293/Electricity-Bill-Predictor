@@ -1,0 +1,12 @@
+{
+  "name": "wattwise-energy-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A local electricity bill estimator with SQLite accounts and saved energy estimates.",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
